@@ -8,7 +8,7 @@
         "name": "SynergiTech"
     }],
     "require-dev": {
-        "jakub-onderka/php-parallel-lint": "^0.9.2",
+        "jakub-onderka/php-parallel-lint": "^1.0.0",
         "squizlabs/php_codesniffer": "^3.0",
         "phpunit/phpunit": "^6.3"
     },
