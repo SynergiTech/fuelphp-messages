@@ -97,7 +97,7 @@ class Instance implements \ArrayAccess, \Iterator
             array_push($this->messages, array(
                 'type' => $type,
                 'title' => $title,
-                'text' => $text
+                'text' => addslashes($text)
             ));
         }
 
